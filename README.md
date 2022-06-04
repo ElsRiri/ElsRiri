@@ -10,7 +10,7 @@
   <p align="center">
     Je ne serai en aucun cas tenu responsable de ce que vous ferez ici, un clique sur un lien reviens à un consentement de votre part à y accéder.
     <br />
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><strong>Vas, clique »</strong></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><strong>Vas, clique</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">Là</a>
