@@ -1,7 +1,4 @@
 <div id="top"></div>
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
-
 <br />
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -23,8 +20,3 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Ou là</a>
   </p>
 </div>
-
-[contributors-shield]: https://img.shields.io/github/contributors/ElsRiri/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
